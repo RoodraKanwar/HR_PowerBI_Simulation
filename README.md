@@ -15,6 +15,6 @@ I used Hiring Data provided by PwC Switzerland to create PowerBI dashboards high
 
 ## Demo of the Dasboard
 
-1. ![Screenshot 2025-03-02 133314](https://github.com/user-attachments/assets/1600e788-52e7-47b6-b560-886092e1f4da)
-2. ![Screenshot 2025-03-02 133135](https://github.com/user-attachments/assets/f0de8881-363f-4051-909b-e0a59dc81ad1)
-3. ![Screenshot 2025-03-02 134257](https://github.com/user-attachments/assets/8684b10a-657e-431c-87bc-9eaf1529b583)
+![Screenshot 2025-03-02 133314](https://github.com/user-attachments/assets/1600e788-52e7-47b6-b560-886092e1f4da)
+![Screenshot 2025-03-02 133135](https://github.com/user-attachments/assets/f0de8881-363f-4051-909b-e0a59dc81ad1)
+![Screenshot 2025-03-02 135545](https://github.com/user-attachments/assets/a0ed64bb-8a38-41f5-92cb-7d3f0629ea85)
