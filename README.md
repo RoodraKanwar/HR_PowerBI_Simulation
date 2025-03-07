@@ -1,4 +1,4 @@
-# Hiring, Promotion and Performance Dashboard for HR
+# Hiring, Promotion and Performance Dashboard
 
 ## Scenario
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
